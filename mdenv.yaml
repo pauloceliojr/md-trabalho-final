@@ -12,3 +12,6 @@ dependencies:
   - ipykernel
   - imbalanced-learn=0.9.1
   - openpyxl
+  - tensorflow
+  - keras-preprocessing
+  - matplotlib
