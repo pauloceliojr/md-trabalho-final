@@ -1,0 +1,14 @@
+name: mdenv
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - scikit-learn=1.1.0
+  - gensim
+  - pandas
+  - numpy
+  - nltk
+  - ipykernel
+  - imbalanced-learn=0.9.1
+  - openpyxl
