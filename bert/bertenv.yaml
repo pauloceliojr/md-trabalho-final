@@ -12,4 +12,5 @@ dependencies:
   - scikit-learn
   - openpyxl
   - pytorch
-  - huggingface_hub
+  - huggingface-hub
+  - tensorflow-hub
