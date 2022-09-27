@@ -1,0 +1,15 @@
+name: bertenv
+channels:
+  - conda-forge
+  - huggingface
+  - pytorch
+  - defaults
+dependencies:
+  - tensorflow 
+  - pandas
+  - numpy
+  - transformers
+  - scikit-learn
+  - openpyxl
+  - pytorch
+  - huggingface_hub
